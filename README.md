@@ -21,7 +21,7 @@ public class database {
 			
 			while(rs.next()){
 				System.out.println(rs.getInt("addrnum"));
-				System.out.println(rs.getString("addr"));
+				System.out.println(rs.getString("addr")):
 				//System.out.println(rs.getString("email"));
 				 
 			}
