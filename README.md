@@ -8,6 +8,7 @@ public class database {
 	public static void main(String[] args) throws SQLException {
 	//console.log('rajesh edited this');
 	//console.log('rajesh edited this');
+	//this is rajesh test hsejar trigger for push events
 		ResultSet rs= null;
 		Statement stmt=null;
 		Connection conn=null;
