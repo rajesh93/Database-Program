@@ -7,6 +7,7 @@ public class database {
 	
 	public static void main(String[] args) throws SQLException {
 	//console.log('rajesh edited this');
+	//console.log('rajesh edited this');
 		ResultSet rs= null;
 		Statement stmt=null;
 		Connection conn=null;
