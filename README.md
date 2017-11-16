@@ -29,9 +29,6 @@ public class database {
 			
 		} catch (ClassNotFoundException e) {
 			System.out.println("rajesh test statement");
-			System.out.println("rajesh test statement");
-			System.out.println("rajesh test statement");
-			System.out.println("rajesh test statement");
 			e.printStackTrace();
 		}
 		finally
