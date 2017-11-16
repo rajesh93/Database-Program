@@ -9,6 +9,7 @@ public class database {
 	//console.log('rajesh edited this');
 	//console.log('rajesh edited this');
 	//this is rajesh test hsejar trigger for push events
+	//test commit rajesh rana
 		ResultSet rs= null;
 		Statement stmt=null;
 		Connection conn=null;
