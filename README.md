@@ -1,6 +1,4 @@
 # Database-Program
-
-package raj;
 import  java.sql.*;
 
 public class database {
